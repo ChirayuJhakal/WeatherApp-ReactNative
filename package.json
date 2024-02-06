@@ -9,13 +9,20 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "dayjs": "^1.11.10",
     "expo": "~50.0.4",
+    "expo-location": "~16.5.2",
     "expo-status-bar": "~1.11.1",
+    "install": "^0.13.0",
+    "npm": "^10.4.0",
     "react": "18.2.0",
-    "react-native": "0.73.2"
+    "react-native": "0.73.2",
+    "react-native-splash-screen": "^3.3.0",
+    "wd": "^1.14.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "webdriverio": "^8.29.7"
   },
   "private": true
 }
